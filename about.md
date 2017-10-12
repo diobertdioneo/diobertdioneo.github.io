@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /diobertdioneo.github.io/about
 ---
 
 Code - Eat - Sleep - Automate
